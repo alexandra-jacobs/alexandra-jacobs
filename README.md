@@ -1,4 +1,4 @@
-# Welcome to my (very simple) portfolio! Click on any of the projects below to view my work.
+# Welcome to my (very simple) portfolio! Click on any of the projects below to view my recent work.
 
 
 # [Florida Flood Analysis: ArcGIS Pro](https://storymaps.arcgis.com/stories/a7a0586d35e74a34aa5ff439157e5fe3)
