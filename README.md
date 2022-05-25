@@ -1,4 +1,4 @@
-# Welcome to my portfolio! Click on any of the projects below to view my work.
+# Welcome to my (very simple) portfolio! Click on any of the projects below to view my work.
 
 # [Olduvai Gorge Least Cost Path Analysis Project (ArcGISPro)](https://storymaps.arcgis.com/stories/0d602be104c6472cba91c9c759a70ce8)
 Creating Least Cost Path Analyses (LCPA) to find least expensive surface analysis routes between archaeological sites and paleo-lake margins
