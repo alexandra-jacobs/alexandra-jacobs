@@ -8,11 +8,11 @@ Creating flood analyses to vizualize how Flooding will impact Florida. What will
 Creating Least Cost Path Analyses (LCPA) to find least expensive surface analysis routes between archaeological sites and paleo-lake margins in the Olduvai Gorge in Tanzania.
 
 
-## [Data Cleaning Project: Python; Excel](https://storymaps.arcgis.com/stories/144ccc8235f74a54a97433bca2251e47)
+## [Data Cleaning Project: Python & Excel](https://storymaps.arcgis.com/stories/144ccc8235f74a54a97433bca2251e47)
 Using python and PANDAS to find errors and inconsistencies in a dataset.
 
 
-## [Coming soon: Python/QGIS project]
+## Coming soon: Python & QGIS project
 
 
-## [Coming soon: SQL Project]
+## Coming soon: SQL Project
