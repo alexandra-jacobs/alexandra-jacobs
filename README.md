@@ -12,7 +12,7 @@ Creating Least Cost Path Analyses (LCPA) to find least expensive surface analysi
 Using python and PANDAS to find errors and inconsistencies in a dataset.
 
 
-# [Coming soon: Python Data Cleaning Project pt 2: visualizing the data. (Python/QGIS)]
+# [Coming soon: Python/QGIS project]
 
 
 # [Coming soon: SQL Project]
