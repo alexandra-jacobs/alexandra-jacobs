@@ -1,5 +1,3 @@
-![LinkedinPP](https://imgur.com/a/s4zIq9U)
-
 # Welcome to my portfolio! Click on any of the projects below to view my recent work.
 
 ## [Florida Flood Analysis: ArcGIS Pro](https://storymaps.arcgis.com/stories/a7a0586d35e74a34aa5ff439157e5fe3)
@@ -17,6 +15,7 @@ Using Python and pandas to find errors and inconsistencies in a dataset.
 
 
 ## Coming soon: SQL Project
+
 
 
 # About Me
