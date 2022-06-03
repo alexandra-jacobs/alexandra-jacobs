@@ -1,5 +1,6 @@
+![LinkedinPP](https://imgur.com/a/s4zIq9U)
+
 # Welcome to my portfolio! Click on any of the projects below to view my recent work.
-![LinkedinPP](https://imgur.com/a/s4zIq9U))
 
 ## [Florida Flood Analysis: ArcGIS Pro](https://storymaps.arcgis.com/stories/a7a0586d35e74a34aa5ff439157e5fe3)
 Creating flood analyses to vizualize how flooding will impact Florida. What will Florida's coastline look like if the sea level rises 5, 10, 15 and 20 feet? If the coast were to rise 20 feet, how many people would be displaced?
@@ -18,6 +19,5 @@ Using Python and pandas to find errors and inconsistencies in a dataset.
 ## Coming soon: SQL Project
 
 
-
-## [About Me]
+# About Me
 I grew up in Indiana about 45 minutes south of Chicago and moved out to Denver, CO in 2021 for my position at MAXAR. I love snowboarding, hiking, bouldering, climbing, volleyball... pretty much any outdoor activity so Colorado has been a perfect fit for me! I am also an avid oil painter. If you'd like to see my paitnings you can [click here to visit my art instagram!](https://www.instagram.com/oily.alex/?hl=en)
