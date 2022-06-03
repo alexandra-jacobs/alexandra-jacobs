@@ -19,4 +19,4 @@ Using Python and pandas to find errors and inconsistencies in a dataset.
 
 
 # About Me
-I grew up in Indiana about 45 minutes south of Chicago and moved out to Denver, CO in 2021 for my position at MAXAR. I love snowboarding, hiking, bouldering, climbing, volleyball... pretty much any outdoor activity so Colorado has been a perfect fit for me! I am also an avid oil painter. If you'd like to see my paitnings you can [click here to visit my art instagram!](https://www.instagram.com/oily.alex/?hl=en)
+Hi! You can call me Alex or Alexandra whichever you prefer. Here is some non GIS-related information about me: I grew up in Indiana about 45 minutes south of Chicago and moved out to Denver, CO in July 2021. I love snowboarding, hiking, bouldering, climbing, volleyball... pretty much any outdoor activity so Colorado has been a perfect fit for me! I am also an avid oil painter. If you'd like to see my paitnings you can [click here to visit my art instagram!](https://www.instagram.com/oily.alex/?hl=en)
