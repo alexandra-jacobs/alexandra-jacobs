@@ -19,4 +19,6 @@ Using Python and pandas to find errors and inconsistencies in a dataset.
 
 
 # About Me
-Hi! You can call me Alex or Alexandra whichever you prefer. Here is some non GIS-related information about me: I grew up in Indiana about 45 minutes south of Chicago and moved out to Denver, CO in July 2021. I love snowboarding, hiking, bouldering, climbing, volleyball... pretty much any outdoor activity so Colorado has been a perfect fit for me! I am also an avid oil painter. If you'd like to see my paitnings you can [click here to visit my art instagram!](https://www.instagram.com/oily.alex/?hl=en)
+Hi! You can call me Alex or Alexandra whichever you prefer. Here is some non GIS-related information about me: I grew up in Indiana about 45 minutes south of Chicago and moved out to Denver, CO in July 2021. I play a lot of volleyball and I also enjoy skiing, snowboarding, hiking, climbing, ... pretty much any outdoor activity so you can imagine Colorado has been the perfect fit for me! I am also an avid oil painter If you'd like to see my paitnings you can [click here to visit my art instagram!](https://www.instagram.com/oily.alex/?hl=en). 
+
+I would describe myself as driven, creative, and philanthropic and I'm always looking to advance myself professionally and personally! If you'd like to chat you can send me an email at alexandranicolej98@gmail.com
