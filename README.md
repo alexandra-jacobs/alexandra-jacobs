@@ -11,10 +11,10 @@ Creating Least Cost Path Analyses (LCPA) to find least expensive surface analysi
 Using Python and pandas to find errors and inconsistencies in a dataset.
 
 
-## Coming soon: Python & QGIS project
+## Coming soon: 3D journey through the US State high points! 
 
 
-## Coming soon: SQL Project
+## Coming soon: Using deep learning to identify trees in imagery
 
 
 
