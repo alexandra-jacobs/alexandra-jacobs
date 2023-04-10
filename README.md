@@ -2,7 +2,7 @@
 
 
 ## [US State High Point 3D Vizualization](https://experience.arcgis.com/experience/cd24a0802d8146c085fdfd33b3f86169/?draft=true) 
-NOTE: Work in progress!
+NOTE: work in progress!
 
 Take a 3D tour of the United States high points! "Highpointing" is the goal of reaching every state high point. Some are a just a short jaunt off the side of a highway while others, like Denali in Alaska, are an multi-week excursion.
     -View hiking/walking routes by cliking on a mountain on the bottom left hand corner, doing this will also populate the Lat/Long/Elevation in the top right.
