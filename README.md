@@ -1,7 +1,6 @@
 # Welcome to my portfolio! Click on any of the projects below to view my recent work.
-
-
-
+#
+#
 ## [US State High Point 3D Vizualization](https://experience.arcgis.com/experience/cd24a0802d8146c085fdfd33b3f86169/?draft=true) 
 NOTE: work in progress!
 
