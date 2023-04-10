@@ -10,8 +10,8 @@ Take a 3D tour of the United States high points! "Highpointing" is the goal of r
 
 Instructions: View hiking/walking routes by cliking on a mountain on the bottom left hand corner, doing this will also populate the Lat/Long/Elevation in the top right. To view the elevation profile of a trail/route, click on one of the red lines. It will populate in the bottom right hand corner. 
 
-## [Florida Flood Analysis: ArcGIS Pro](https://storymaps.arcgis.com/stories/a7a0586d35e74a34aa5ff439157e5fe3)
-Creating flood analyses to vizualize how flooding will impact Florida. What will Florida's coastline look like if the sea level rises 5, 10, 15 and 20 feet? If the coast were to rise 20 feet, how many people would be displaced?
+## [Step-by-step Florida Flood Analysis: ArcGIS Pro](https://storymaps.arcgis.com/stories/a7a0586d35e74a34aa5ff439157e5fe3)
+Creaing flood analyses that vizualize how rising sea levels will impact Florida's coastline. What will Florida's coastline look like if the sea level rises 5, 10, 15 and 20 feet? If the coast were to rise 20 feet, how many people would be displaced?
 
 ## [Olduvai Gorge Least Cost Path Analyses: ArcGIS Pro](https://storymaps.arcgis.com/stories/0d602be104c6472cba91c9c759a70ce8)
 Creating Least Cost Path Analyses (LCPA) to find least expensive surface analysis routes between archaeological sites and paleo-lake margins in the Olduvai Gorge in Tanzania.
